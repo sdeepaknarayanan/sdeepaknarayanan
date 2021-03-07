@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Deepak, a Research Fellow at MSR India working in the Machine Learning and Artificial Intelligence Group.
+
+My research interests span large-scale machine learning with a focus on representation learning. 
+
+Earlier, I was an undergraduate student at the Indian Institute of Technology Gandhinagar, where I worked on problems arising in computational sustainability, large-scale machine learning and processing distributed streaming data.
 <!--
 **sdeepaknarayanan/sdeepaknarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
