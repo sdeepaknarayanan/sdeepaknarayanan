@@ -2,7 +2,7 @@
 
 I am Deepak, a Research Fellow at MSR India working in the Machine Learning and Artificial Intelligence Group.
 
-My research interests are in large-scale machine learning with a focus on representation learning on graphs. My current work involves problems in scalable representation learning and on addressing fundamental questions in Information Retrieval.
+My research interests are in large-scale machine learning with a focus on representation learning. My current work is on solving problems in scalable representation learning and information retrieval.
 
 Earlier, I was an undergraduate student at the Indian Institute of Technology Gandhinagar, where I worked on problems arising in computational sustainability, large-scale machine learning and processing distributed streaming data.
 <!--
