@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Deepak, an MS student at ETH Zurich, with a focus on machine learning. 
+I am Deepak, an MS student at ETH Zurich. 
 
-My research interests are in optimization, robust statistics, and theory.
+My research interests are in optimization, machine learning and theoretical computer science with a particular focus on designing efficient algorithms for statistical estimation problems.
 
 Earlier, I was a Research Fellow at Microsoft Research India, working with the ML & AI group on problems related to efficient and scalable graph representation learning and efficient neural learning to rank. Before that, I was an undergraduate student at the Indian Institute of Technology Gandhinagar, where I worked on problems arising in computational sustainability, large-scale machine learning and processing distributed streaming data.
 <!--
