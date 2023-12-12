@@ -4,8 +4,7 @@ I am Deepak, an MS student at ETH Zurich.
 
 My research interests are in optimization, machine learning and theoretical computer science with a particular focus on designing efficient algorithms for statistical estimation problems.
 
-Earlier, I was a Research Fellow at Microsoft Research India, working with the ML & AI group on problems related to efficient and scalable graph representation learning and efficient neural learning to rank. Before that, I was an undergraduate student at the Indian Institute of Technology Gandhinagar, where I worked on problems arising in computational sustainability, large-scale machine learning and processing distributed streaming data.
-<!--
+**I am looking for PhD Positions from Fall 2024! Reach out to me if you are hiring!**<!--
 **sdeepaknarayanan/sdeepaknarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
