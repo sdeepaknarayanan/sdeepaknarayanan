@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at ETH Zurich. 
+I am a graduate student at ETH Zurich. 
 
 My research interests are in high-dimensional statistics, optimization, and theoretical computer science with a particular focus on understanding the computational complexity of statistical inference. I am also interested in robustness in learning (from a theoretical perspective).
 
